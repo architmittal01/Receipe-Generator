@@ -1,3 +1,5 @@
+> **NOTE:** Time limit for creating this project is 8 hrs.
+
 # 🍽️ Recipe Finder Web Application
 
 Recipe Finder is a delightful web application where users can explore a variety of recipes, find the necessary ingredients, and save their favorite recipes. Whether you're a vegetarian, meat lover, or someone looking to lose weight, Recipe Finder has something for everyone!
